@@ -1,6 +1,6 @@
 # 🌍 **Global Insights Dashboard**
 
-Welcome to the **Global Insights Dashboard**! 🎉 This interactive dashboard provides insightful visualizations that offer a comprehensive view of key global metrics such as GDP per capita, life expectancy, and population across different countries. Created using **Dash** and **Plotly**, this project allows you to explore the global landscape like never before. 🌏
+This interactive dashboard provides insightful visualizations that offer a comprehensive view of key global metrics such as GDP per capita, life expectancy, and population across different countries. Created using **Dash** and **Plotly**, this project allows you to explore the global landscape like never before. 🌏
 
 ---
 
